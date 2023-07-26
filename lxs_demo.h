@@ -30,8 +30,11 @@ void lxs_get_random_num(int times,int range){
 	}
 }
 
-void lxs_get_2_num_max(int a, int b);
-void lxs_get_2_num_max(int a, int b){
+void lxs_get_2_num_max();
+void lxs_get_2_num_max(){
+	int a, b;
+	printf("please insert 2 num,split with space\n");
+	scanf("%d %d",&a, &b);
 	if (a > b)
 		printf("%d is bigger than %d\n", a, b);
 	else if(a < b)
