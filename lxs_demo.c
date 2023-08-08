@@ -6,6 +6,6 @@ int main(){
 	a=5;
 	i=513;
 //	lxs_get_random_num(a,i);
-	printf("abc\n");
+//	printf("abc\n");
 	lxs_get_2_num_max();
 }

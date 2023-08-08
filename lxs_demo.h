@@ -45,6 +45,11 @@ void lxs_get_2_num_max(){
 
 
 
+
+
+
+
+
 /*
 void lxs_get_num_max(int num[], int len);
 先搞两个数的吧
@@ -66,29 +71,3 @@ void lxs_get_num_max(int num[], int len ){
 		printf("sort array = %s\n ", num[1]);
 }
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
